@@ -12,4 +12,4 @@ iadmusicmatvideo.music.126.net - reject
 iadmusicmat.music.126.net - reject
 
 [MITM]
-hostname = appconf.mail.163.com,interface*.music.163.com,support.you.163.com,p.du.163.com,ossgw.alicdn.com
+hostname = %APPEND% appconf.mail.163.com,interface*.music.163.com,support.you.163.com,p.du.163.com,ossgw.alicdn.com
